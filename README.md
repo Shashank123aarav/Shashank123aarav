@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Data Analyst based in Ahmedabad, India — I turn raw data into clear, decision-ready insights.
 
 ## 🔧 What I work with
-- **Languages/Query: ** SQL, basic Python
+- **Languages/Query: ** SQL, Basic Python
 - **Survey & Tabulation: ** SPSS, Quantum
 - **Reporting/Visualization: ** Power BI, Excel (PivotTables, Power Query, dynamic arrays)
 
@@ -27,7 +27,7 @@ Data Analyst based in Ahmedabad, India — I turn raw data into clear, decision-
 - Software development internship at Cognizant Technology Solutions
 
 ## 📌 Featured Projects
-- 🔹 **FMG NZ MARKET — Survey data tabulation & crosstab analysis using SPSS/Quantum
+- 🔹 **Pizza Sales Analysis - https://github.com/Shashank123aarav/Pizza_Sales_Dashboard.git
 
 ## 🎯 Currently
 Open to Data Analyst and Market Research / Data Tabulation roles.
